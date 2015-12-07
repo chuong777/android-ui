@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">NHC UI Navigation</string>
+    <string name="drawer_close">Drawer close</string>
+    <string name="drawer_open">Drawer open</string>
 </resources>
